@@ -1,10 +1,22 @@
 # Personal-Financial-Summary-2024
 
+![Dashboard Overview](Personal-Financial-Summary-Dashboard.png)
+
 ## Table of Contents
 - [Project Overview](##Project-Overview)
+- [Data Source](##Data-Source)
+- [Features](##Features)
+- [Tools](##Tools-Used)
+- [Data Cleaning](##Data-Cleaning/Preparation)
+- [How To Use](##How-to-Use)
+- [Key Insights](##Key-Insights)
+- [Installation](##Installation)
 
 ## Project Overview
 This project is a Power BI dashboard that provides an in-depth analysis of my financial data for one of my bank accounts for 2024. It includes insights on expenses, income, and balance tracking, total transactions, savings trend.
+
+## Data Source
+- Requested for my annual statement of account from my bank.
 
 ## Features
 - Visualizes income and expenses by category.
@@ -39,10 +51,6 @@ This project is a Power BI dashboard that provides an in-depth analysis of my fi
 - Current balance and monthly trends.
 - Budget adherence and savings progress.
 - Total monthly expenses and income.
-
-## Screenshots
-![Dashboard Overview](path/to/screenshot1.png)
-![Spending by Category](path/to/screenshot2.png)
 
 ## Installation
 1. Clone this repository:
