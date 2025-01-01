@@ -10,6 +10,7 @@
 - [Data Cleaning](##Data-Cleaning/Preparation)
 - [How To Use](##How-to-Use)
 - [Key Insights](##Key-Insights)
+- [Files In Repo](##Files-In-Repo)
 - [Installation](##Installation)
 
 ## Project Overview
@@ -51,6 +52,12 @@ This project is a Power BI dashboard that provides an in-depth analysis of my fi
 - Current balance and monthly trends.
 - Budget adherence and savings progress.
 - Total monthly expenses and income.
+
+## Files In Repo
+- Converted statement of Account.xlsx : The original dateset gotten from the bank and converted to excel worksheet.
+- FirstBank Statement of Account.xlsx : Cleaned dataset used for analysis and visualization.
+- Personal Finance Summary.pbix: PowerBi file containing the visualizations.
+- Personal Financial Summary Dashboard.png: Image snippet of the dashboard
 
 ## Installation
 1. Clone this repository:
