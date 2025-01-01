@@ -1,6 +1,6 @@
 # Personal-Financial-Summary-2024
 
-![Dashboard Overview](Personal-Financial-Summary-Dashboard.png)
+![Dashboard Overview](https://github.com/Kadiku/Personal-Financial-Summary-2024/blob/main/Personal%20Financial%20Summary%20Dashboard.png)
 
 ## Table of Contents
 - [Project Overview](##Project-Overview)
