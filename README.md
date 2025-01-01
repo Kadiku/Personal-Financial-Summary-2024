@@ -55,4 +55,4 @@ This project is a Power BI dashboard that provides an in-depth analysis of my fi
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/my-financial-summary-2024.git
+   git clone https://github.com/Kadiku/Personal-financial-Summary-2024.git
